@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Here!](https://www.frontendmentor.io/solutions/responsive-qr-code-scanner-using-html-and-css-pwCP1HOpsL)
+- Live Site URL: [Live Github pages](https://abhijitchak103.github.io/fem-qr-code/)
 
 ## My process
 
@@ -55,7 +55,7 @@ To make this design more robust, I will have to get a better grasp on how to ali
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Abhijit Chakraborty](https://github.com/abhijitchak103)
 - Frontend Mentor - [@abhijitchak103](https://www.frontendmentor.io/profile/abhijitchak103)
 
 
