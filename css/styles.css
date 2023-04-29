@@ -1,45 +1,45 @@
 /* ============================== TAG STYLES ===============================*/
-body {
+body{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
     background-color: hsl(212, 45%, 89%);
-    text-align: center;
-    font-family: 'Outfit', sans-serif;
-    /* position: relative; */
-}
+    }
 
-/* div {
-    position: relative; 
-    margin: auto;
-}
-*/
 
-h2 {
+h1 {
     width: 18rem;
-    margin: auto;
-    padding: 10px;
+    margin: 1.25rem 1.25rem 0 1.25rem;
+    /* the same margin-left, margin-right and margin-top values. Give p a margin bottom value. */
     color: hsl(218, 44%, 22%);
+    font-size: 1.25rem;
+    text-align: center;
 }
 
 p {
+    text-align: center;
     width: 16rem;
-    margin: auto;
-    padding: 10px 0 30px;
-    font-size: 15px;
+    margin: 1.25rem 1.25rem 1.25rem 2rem;
+    /* padding: 0.625rem 0 1.875rem; */
+    font-size: 0.9375rem;
     color: hsl(220, 15%, 55%);
 }
+
 /* ============================== CLASS STYLES =============================*/
+
 .main {
     background-color: hsl(0, 0%, 100%);
-    margin: 100px;
+    margin: 6.25rem;
     border-radius: 1.5rem;
-    padding: 10px;
+    max-width: 20rem;
+    padding: 1rem;
     /* position: relative; */
     display: inline-block;
 }
 
 .qr {
-    width: 18rem;
-    margin: 5px;
+    max-width: 100%;
+    /* margin: 5px; */
     border-radius: 1rem;
     /* position: relative; */
-
 }
