@@ -3,12 +3,14 @@ body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
     font-family: 'Outfit', sans-serif;
+    /* position: relative; */
 }
 
-div {
-    position: relative;
+/* div {
+    position: relative; 
     margin: auto;
 }
+*/
 
 h2 {
     width: 18rem;
@@ -27,14 +29,17 @@ p {
 /* ============================== CLASS STYLES =============================*/
 .main {
     background-color: hsl(0, 0%, 100%);
-    margin: 100px 505px;
+    margin: 100px;
     border-radius: 1.5rem;
     padding: 10px;
+    /* position: relative; */
+    display: inline-block;
 }
 
 .qr {
     width: 18rem;
     margin: 5px;
     border-radius: 1rem;
+    /* position: relative; */
 
 }
